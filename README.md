@@ -12,9 +12,5 @@ The Java Bank Statement Analyzer is an application that lets you assess credit w
  - Get Special validation checks such as Trustable status, Creation and modification dates comparison, valid fonts, valid structure
  - Get List of all supported banks
  
- Building from Source
-Clone this repo and run:
-
-  mvn clean compile assembly:single
 
  PS: Inspired and developed using concepts from https://medium.com/@_samkitjain/developing-a-bank-statement-analyser-7470bffbe5e2
