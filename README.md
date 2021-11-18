@@ -1,4 +1,4 @@
-The Java Bank Statement Analyzer lets you assess credit worthiness in just 2 steps:
+The Java Bank Statement Analyzer is an application that lets you assess credit worthiness in just 2 steps:
   1) Import bank statements from a variety of banks
   2) Get a holistic view of customers financial health in CSV, JSON or XML formats
  
